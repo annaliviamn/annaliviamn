@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="left">Anna</h1>
 
-<!--
-**annaliviamn/annaliviamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+Estudante de Análise e Desenvolvimento de Sistemas que se apaixonou por front-end e, no processo, acabou construindo vários projetos. Tenho experiência prática com Firebase (Auth e Firestore) e estou caminhando para o full stack.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://api.iconify.design/lucide:wrench.svg?color=%23333333" width="18" height="18" align="center"/> stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase" alt="stack icons" />
+
+---
+
+### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%23333333" width="18" height="18" align="center"/> projetos
+
+**[Prontuário APSI](#)**
+Sistema de gestão de prontuários e agenda para uma clínica de psicologia, desenvolvido para um cliente real e em uso na prática. PWA multiusuário com Firebase, geração automática de PDFs (atestados, relatórios), biblioteca de imagens reutilizável e painel administrativo completo.
+
+**[PogFy](#)**
+Meu TCC — um PWA que transforma playlists colaborativas em uma experiência de grupo: integração com a API do Spotify, ranking de contribuição por usuário e chat com reações.
+
+**[Site institucional para clínica](#)**
+Site fictício desenvolvido para consolidar fundamentos de front-end: layout responsivo, hierarquia visual e organização de conteúdo institucional.
+
+**[Homepage de banco](#)**
+Interface fictícia inspirada em sites bancários reais, com foco em usabilidade e design de confiança.
+
+**[Pokédex](#)**
+Front-end e back-end consumindo a PokéAPI — projeto de fundamentos que consolidou minha base em HTML, CSS e JavaScript.
+
+Mais detalhes de cada projeto no portfólio <img src="https://api.iconify.design/lucide:arrow-down.svg?color=%23333333" width="14" height="14" align="center"/>
+
+---
+
+### <img src="https://api.iconify.design/lucide:mail.svg?color=%23333333" width="18" height="18" align="center"/> contato
+
+<!-- LinkedIn, e-mail ou portfólio aqui -->
+</p>
