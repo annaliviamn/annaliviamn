@@ -35,5 +35,9 @@ Mais detalhes de cada projeto no portfólio <img src="https://api.iconify.design
 
 ### <img src="https://api.iconify.design/lucide:mail.svg?color=%23333333" width="18" height="18" align="center"/> contato
 
-<!-- LinkedIn, e-mail ou portfólio aqui -->
+<!-- LinkedIn -->
+[![LinkedIn](https://api.iconify.design/lucide:linkedin.svg?color=%23333333)](https://www.linkedin.com/in/annaliviamaciel/) [annaliviamaciel](https://www.linkedin.com/in/annaliviamaciel/)
+
+<!-- E-mail -->
+[![E-mail](https://api.iconify.design/lucide:mail.svg?color=%23333333)](mailto:annaliviamaciel@gmail.com) annaliviamaciel@gmail.com
 </p>
