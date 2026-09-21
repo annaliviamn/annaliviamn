@@ -35,12 +35,6 @@ Mais detalhes de cada projeto no portfólio <img src="https://api.iconify.design
 
 ---
 
-### <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%231B263B" width="18" height="18" align="center"/> stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=annaliviamn&show_icons=true&theme=default&hide_border=true&bg_color=00000000&text_color=1B263B&icon_color=4B5320&title_color=1B263B" width="49%" align="top"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaliviamn&layout=compact&theme=default&hide_border=true&bg_color=00000000&text_color=1B263B&title_color=1B263B" width="35%" align="top"/>
-
----
-
 ### <img src="https://api.iconify.design/lucide:mail.svg?color=%231B263B" width="18" height="18" align="center"/> contato
 
 <!-- LinkedIn -->
